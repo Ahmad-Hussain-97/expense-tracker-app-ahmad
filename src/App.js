@@ -1,6 +1,6 @@
 import Child from "./child";
 import "./App.css";
-//import { transactionContext } from "./transContext";
+import { TransactionProvider } from "./transContext";
 
 function App() {
   return (
